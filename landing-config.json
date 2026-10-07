@@ -1,0 +1,206 @@
+{
+  "id": "landing-config-actuaseg",
+  "updatedAt": "2026-10-07T00:19:32.239Z",
+  "branding": {
+    "name": "ACTUASEG",
+    "tagline": "Actuarios Seguros",
+    "logoUrl": "",
+    "primaryColor": "#002855",
+    "accentColor": "#A11E22",
+    "fontFamily": "Space Grotesk",
+    "textColor": "#002855",
+    "textSize": "xl",
+    "fontWeight": "black",
+    "logoSize": 44,
+    "layoutPosition": "logo-left"
+  },
+  "header": {
+    "navLinks": [
+      {
+        "id": "nav-1",
+        "label": "Servicios",
+        "url": "#servicios"
+      },
+      {
+        "id": "nav-2",
+        "label": "Consultar Presupuesto",
+        "url": "#presupuesto"
+      },
+      {
+        "id": "nav-3",
+        "label": "¿Por Qué Nosotros?",
+        "url": "#ventajas"
+      },
+      {
+        "id": "nav-4",
+        "label": "Contacto",
+        "url": "#contacto"
+      }
+    ],
+    "externalSystemButton": {
+      "enabled": true,
+      "label": "Acceso a Sistema Actuarial",
+      "url": "https://sistema.actuaseg.com",
+      "openInNewTab": true,
+      "icon": "shield",
+      "styleVariant": "primary"
+    },
+    "additionalButtons": []
+  },
+  "hero": {
+    "badgeText": "Pasión por la precisión",
+    "headlineMain": "Consultoría Actuarial y",
+    "headlineHighlight": "Análisis de Riesgos",
+    "description": "Acompañamos a las organizaciones de Latinoamérica en la valuación de Jubilación Patronal, Desahucio y beneficios a empleados bajo normas internacionales NIIF / IAS 19, estructuración de seguros corporativos, analítica avanzada de riesgos y encuestas salariales.",
+    "ctaPrimary": {
+      "label": "Consultar Presupuesto",
+      "url": "#presupuesto",
+      "isExternal": false
+    },
+    "ctaSecondary": {
+      "label": "Servicios Corporativos",
+      "url": "#servicios",
+      "isExternal": false
+    },
+    "sideCard": {
+      "badge": "Acreditado",
+      "title": "Cálculo de Pasivos Actuariales",
+      "subtitle": "Valuación NIC 19 & Código del Trabajo",
+      "metric1Label": "Código del Trabajo",
+      "metric1Value": "Art. 216 / 185",
+      "metric2Label": "Soporte Auditoría",
+      "metric2Value": "Garantizado",
+      "metric3Label": "Acreditación",
+      "metric3Value": "Actuarios SOA"
+    }
+  },
+  "servicesSection": {
+    "badge": "Unidades de Negocio",
+    "title": "Nuestros Servicios y Soluciones Corporativas",
+    "description": "Asesoría técnica y financiera experta respaldada por metodologías científicas de alta precisión. Ayudamos a su empresa a cumplir regulaciones y optimizar sus inversiones en talento y protección.",
+    "services": [
+      {
+        "id": "srv-1",
+        "title": "Consultoría Actuarial",
+        "tag": "IAS 19 / NIIF",
+        "description": "Valuación actuarial obligatoria de jubilación patronal, desahucio y beneficios post-empleo. Informes normativos adaptados a normas NIIF / IAS 19, validados por entes de control estatales y auditores.",
+        "buttonText": "Consultar",
+        "buttonUrl": "#presupuesto",
+        "icon": "layers"
+      },
+      {
+        "id": "srv-2",
+        "title": "Asesoría de Seguros",
+        "tag": "Seguros Colectivos",
+        "description": "Diseño, licitación competitiva y auditoría técnica de pólizas corporativas de salud, vida y accidentes colectivos. Reducimos el gasto de prima a través de auditorías médicas de siniestralidad.",
+        "buttonText": "Consultar",
+        "buttonUrl": "#presupuesto",
+        "icon": "briefcase"
+      },
+      {
+        "id": "srv-3",
+        "title": "Analítica & Big Data",
+        "tag": "Modelamiento de Riesgo",
+        "description": "Modelado predictivo de frecuencia y severidad de reclamos, análisis de rentabilidad y simulación estocástica para reservas de fondos autoasegurados y de reaseguro empresarial.",
+        "buttonText": "Consultar",
+        "buttonUrl": "#presupuesto",
+        "icon": "activity"
+      },
+      {
+        "id": "srv-4",
+        "title": "Compensación y Salarios",
+        "tag": "Estudios Salariales",
+        "description": "Diseño de estudios de remuneración del mercado local y regional. Diagnósticos de equidad interna, análisis de brecha salarial de género, y diseño de esquemas de incentivos variables eficientes.",
+        "buttonText": "Consultar",
+        "buttonUrl": "#presupuesto",
+        "icon": "users"
+      }
+    ]
+  },
+  "presupuestoSection": {
+    "badge": "Presupuestos y Cotizaciones",
+    "title": "Solicite su Presupuesto",
+    "requirementBadge": "Requisitos: indicar el número de personas",
+    "description": "Para coordinar su cotización o estudio actuarial, comuníquese directamente con nuestros especialistas e indíquenos la cantidad de colaboradores a evaluar.",
+    "whatsappNumber": "+593 98 820 4349",
+    "whatsappRawNumber": "593988204349",
+    "whatsappDefaultMessage": "Hola ActuaSeg, deseo solicitar un presupuesto. El número de personas es: ",
+    "callNumber": "+593988204349",
+    "callDisplayNumber": "+593 98 820 4349",
+    "customCtaNote": "Atención directa e inmediata de lunes a viernes de 8:00 a 18:00 (GMT-5)."
+  },
+  "ventajasSection": {
+    "badge": "Nuestra Trayectoria",
+    "title": "Garantía de Excelencia Profesional",
+    "description": "Combinamos solidez técnica actuarial, amplio conocimiento legal local y tecnología moderna para ofrecer el informe más robusto del mercado.",
+    "advantages": [
+      {
+        "id": "adv-1",
+        "title": "Actuarios Certificados",
+        "description": "Todos nuestros consultores cuentan con credenciales en organizaciones internacionales de actuaria (como la SOA o institutos locales acreditados), garantizando la máxima rigurosidad y validez de firmas.",
+        "icon": "award"
+      },
+      {
+        "id": "adv-2",
+        "title": "Alineación Normativa 100%",
+        "description": "Garantía total de cumplimiento de regulaciones del Ministerio del Trabajo, Superintendencias locales e internacionales (NIIF, IAS 19, IFRS 17), asegurando la aprobación sin observaciones de sus auditores.",
+        "icon": "shield"
+      },
+      {
+        "id": "adv-3",
+        "title": "Auditoría Médica de Seguros",
+        "description": "No solo contratamos pólizas, auditamos la siniestralidad médica real. Ayudamos a contener sobrecostos médicos utilizando análisis de datos para verificar la procedencia de reclamos corporativos.",
+        "icon": "refresh"
+      }
+    ]
+  },
+  "externalLinksSection": {
+    "enabled": true,
+    "title": "Acceso a Nuestras Plataformas y Portales",
+    "description": "Conéctese directamente con nuestras aplicaciones corporativas, módulos de consulta y sistemas externos.",
+    "buttons": [
+      {
+        "id": "btn-ext-1",
+        "label": "Ingresar a mi Sistema Actuarial",
+        "url": "https://sistema.actuaseg.com",
+        "openInNewTab": true,
+        "styleVariant": "primary"
+      },
+      {
+        "id": "btn-ext-2",
+        "label": "Portal de Clientes & Descargas",
+        "url": "https://clientes.actuaseg.com",
+        "openInNewTab": true,
+        "styleVariant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "companyName": "ACTUASEG",
+    "description": "Líderes en consultoría actuarial, seguros corporativos, analítica y compensación salarial en América Latina. Aportando pasión por la precisión desde hace más de 20 años.",
+    "servicesList": [
+      {
+        "label": "Jubilación Patronal (NIIF / IAS 19)",
+        "url": "#servicios"
+      },
+      {
+        "label": "Valuación de Desahucio (Art. 185)",
+        "url": "#servicios"
+      },
+      {
+        "label": "Seguros Médicos y de Vida Colectivos",
+        "url": "#servicios"
+      },
+      {
+        "label": "Estudios Salariales de Mercado",
+        "url": "#servicios"
+      }
+    ],
+    "location": "ECUADOR - GUAYAQUIL",
+    "contactEmail": "contacto@actuaseg.com",
+    "contactPhone": "+593 98 820 4349",
+    "systemTag1": "NORMATIVA: NIC 19 / IFRS",
+    "systemTag2": "CÓDIGO DEL TRABAJO: ART. 216 / 185",
+    "copyrightText": "Todos los derechos reservados. Consultoría y Valuación Actuarial."
+  }
+}

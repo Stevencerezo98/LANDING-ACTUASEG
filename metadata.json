@@ -1,0 +1,6 @@
+{
+  "name": "ActuaSeg",
+  "description": "Sitio web corporativo de consultoría actuarial con gestor de contenido CMS integrado (Dashboard). Permite editar en tiempo real todos los textos, servicios, presupuesto de WhatsApp y botones con enlaces a sistemas externos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
